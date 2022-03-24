@@ -1,9 +1,10 @@
 # Clone_Snapdeal
  
  ## Project Description
+ 
+This is our first project at Masai School. For Educational Purposes, We try to build a Snapdeal clone using Html, CSS, JS, and Local Storage,our task is to make a clone of the snapdeal website in 6 days. 
 
- Snapdeal is an eCommerce website that is a business model that involves sales transactions being done on the web. The Company offers a variety of products such as electronics, clothing, groceries, kitchenware, and many more.
-
+Snapdeal is an eCommerce website that is a business model that involves sales transactions being done on the web. 
  ## Technologies Used
  - Html
  - Css
