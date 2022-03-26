@@ -4,8 +4,9 @@
  
 This is our first project at Masai School. For Educational Purposes, We try to build a Snapdeal clone using Html, CSS, JS, and Local Storage,our task is to make a clone of the snapdeal website in 6 days. 
 
-Snapdeal is an eCommerce website that is a business model that involves sales transactions being done on the web. 
- ## Technologies Used
+We decided to clone all the important functionality pages from this website, and each individual was assigned their specific task and the project was made by mutually collaborating. We learned about the positions and overflow properties of CSS our Html skills also improved. And logic for creating many of the common features available in most of the websites improved.
+
+## Technologies Used
  - Html
  - Css
  - Javascript
